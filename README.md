@@ -33,6 +33,8 @@
 
 ## Add Secrets
 
+- Add Secrests that you have created for your DB and Huggingface
+
 ## Design Choices
 - Free Database: Neon.tech for zero-cost PostgreSQL
 
