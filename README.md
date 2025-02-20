@@ -1,6 +1,6 @@
-## A simple app that answers questions from PDFs using AI.
+# A simple app that answers questions from PDFs using AI.
 
-# Tools Used
+## Tools Used
 - Streamlit (Web interface)
 
 - Hugging Face (Text embeddings)
@@ -9,7 +9,7 @@
 
 - LangChain (PDF processing)
 
-# Setup
+## Setup
 - Get Free Accounts
 
 - Create a Neon.tech database
@@ -17,7 +17,7 @@
 - Get a Hugging Face token (free)
 
 
-# Create requirements.txt:
+## Create requirements.txt:
 
 
 
@@ -31,9 +31,9 @@
 
 
 
-# Add Secrets
+## Add Secrets
 
-# Design Choices
+## Design Choices
 - Free Database: Neon.tech for zero-cost PostgreSQL
 
 - Simple Chunks: 500-character text splits for basic context
